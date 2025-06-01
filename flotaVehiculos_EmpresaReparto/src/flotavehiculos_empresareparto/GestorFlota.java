@@ -2,7 +2,7 @@ package flotaVehiculos_EmpresaReparto;
 
 /**
  *
- * @author LenovoCoreMK
+ * @author Mark Gonzalez
  */
 import java.util.ArrayList;
 import java.util.List;
