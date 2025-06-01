@@ -2,7 +2,7 @@ package flotaVehiculos_EmpresaReparto;
 
 /**
  *
- * @author Etxn
+ * @author Ethan Soto
  */
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
