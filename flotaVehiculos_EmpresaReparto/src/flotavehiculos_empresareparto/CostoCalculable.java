@@ -2,7 +2,7 @@ package flotaVehiculos_EmpresaReparto;
 
 /**
  *
- * @author Etxn
+ * @author Ethan Soto
  */
 
 /**
