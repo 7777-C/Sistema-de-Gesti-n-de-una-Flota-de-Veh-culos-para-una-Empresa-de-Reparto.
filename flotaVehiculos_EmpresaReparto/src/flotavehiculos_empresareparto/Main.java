@@ -2,7 +2,7 @@ package flotaVehiculos_EmpresaReparto;
 
 /**
  *
- * @author Joseph
+ * @author Joseph Aguilar
  */
 import java.util.Scanner;
 
